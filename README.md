@@ -8,6 +8,14 @@
   </ul>
 </div>
 
+---
+
+ ### About me:
+
+ Hi,I am Oliullah Akib finished my web development from programming hero.I took a good position there and I enjoy my coding. Beside that I am a practicing Muslim.
+
+---
+
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on react. 
@@ -21,6 +29,7 @@ Skills:  REACT / JS / HTML / CSS
 <div>
   <p align="left">
     <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="oliullahakib" height="30" width="40" /></a>
+     <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="oliullahakib" height="30" width="40" /></a>
   </p>
 </div>
 
